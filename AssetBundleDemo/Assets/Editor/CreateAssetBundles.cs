@@ -7,7 +7,7 @@ using System.IO;
 public class CreateAssetBundles
 {
     /// <summary>
-    /// 创建mac系统用的AssetBundle
+    /// 创建mac系统用的AssetBundle 
     /// </summary>
     [MenuItem("Assets/Build AssetBundles/macOS")]
     static void BuildMacOsAllAssetBundles()
